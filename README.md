@@ -2,7 +2,7 @@
 
 ## Who I am: 
 - 👩‍🎓: Computer Engineering graduated at the University of Genoa; 
-- ⏳ Pursuing a Bachelor’s degree in Robotics Engineering at the University of Genoa. 
+- ⏳ Pursuing a Master’s degree in Robotics Engineering at the University of Genoa. 
 
 ## You can find me also on:
 - [LinkedIn](https://www.linkedin.com/in/ramona-ferrari-3b6a07309/)  
