@@ -1,12 +1,12 @@
 # Hi there! I’m Ramona Ferrari :nerd_face:
 
 ## Who I am: 
-- 👩‍🎓: Computer Engineering graduated at the University of Genoa; 
-- ⏳ Pursuing a Master degree in Robotics Engineering at the University of Genoa. 
+- 👩‍🎓: [Computer Engineering](https://corsi.unige.it/corsi/8719) graduated at the University of Genoa; 
+- ⏳ Pursuing a Master degree in [Robotics Engineering](https://corsi.unige.it/en/corsi/10635) at the University of Genoa. 
 
 ## You can find me also on:
-- [LinkedIn](https://www.linkedin.com/in/ramona-ferrari-3b6a07309/)  
-- [GitHub](https://github.com/ramonaferrarii)  
+- LinkedIn: [Ramona Ferrari](https://www.linkedin.com/in/ramona-ferrari-3b6a07309/)  
+- GitHub: [ramonaferrarii](https://github.com/ramonaferrarii)  
 - 📧 Email: [ramonaferrari01@hotmail.it](mailto:ramonaferrari01@hotmail.it)
 
 
