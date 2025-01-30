@@ -7,7 +7,7 @@
 ## You can find me also on:
 - LinkedIn: [Ramona Ferrari](https://www.linkedin.com/in/ramona-ferrari-3b6a07309/)  
 - GitHub: [ramonaferrarii](https://github.com/ramonaferrarii)  
-- 📧 Email: [ramonaferrari01@hotmail.it](mailto:ramonaferrari01@hotmail.it)
+- Email: [ramonaferrari01@hotmail.it](mailto:ramonaferrari01@hotmail.it)
 
 
 ## About my repositories:
